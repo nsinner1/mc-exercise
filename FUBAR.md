@@ -1,5 +1,10 @@
 This is where we are going to pull our hair out. 
 
-this is another second feature it is better then the first! 
 
-insert joke here
+this is what bob and carol did on bob's computer when working on the first feature
+  knock knock
+  who's there
+  merge conflict
+  merge conflict who?
+  this is stupid we're fucked
+
