@@ -8,7 +8,3 @@ nope
   merge conflict who?
   this is stupid we're fucked
 i don't think so 
-
-bucko
-
-wait by the car.
