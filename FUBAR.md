@@ -8,3 +8,7 @@ nope
   merge conflict who?
   this is stupid we're fucked
 i don't think so 
+
+
+
+This is where Lami switched stuff.
