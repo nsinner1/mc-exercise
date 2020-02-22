@@ -7,3 +7,7 @@ this is what bob and carol did on bob's computer when working on the first featu
   merge conflict who?
   this is stupid we're fucked
 
+
+  You guys are fucking with my mind right now
+  Be nice f*cker
+
